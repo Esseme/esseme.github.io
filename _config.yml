@@ -23,6 +23,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eddiesemu
 github_username:  esseme
+facebook_username: StartBootstrap
+instagram_username: i_and_my_camera
+#stackoverflow_url: https://
+googleplus_username: Ed Ssemuwemba
+skype_username: essemuwemba
+#linkedin_url: https://
+
+# Address information
+address_street: 3034 Ndejje
+address_city: Kampala
+address_state: Uganda
+address_zip: 256
 
 # Build settings
 markdown: kramdown
