@@ -1,32 +1,14 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
   {% include head.html %}
-
-  <body id="page-top" class="index">
-
-    {% include navbar.html %}
-
-    {% include header.html %}
-
-    {% include portfolio.html %}
-
-    {% include about.html %}
-
-    {% include contact.html %}
-
-    {% include footer.html %}
-
-    {% include modals.html %}
-
-    {% include javascript.html %}
-
-    {% if jekyll.environment == 'production' %}
-
-    {% include analytics.html %}
-
-    {% endif %}
-
+  <body>
+      {% include header.html %}
+      <section id="about">
+        {% include about.html %}
+      </section>
+      <section id="projects">
+        {% include projects.html %}
+      </section>
+        {{ content }}
+      {% include footer.html %}
   </body>
-
-</html>
