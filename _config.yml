@@ -9,12 +9,12 @@ username: Ed Ssemuwemba
 user_description: These are some of the tools I have used to accomplish my tasks
 user_title: Software Developer
 email: esseme@gmail.com
-twitter_username: lorem_ipsum
+twitter_username:
 github_username:  Esseme
-gplus_username:  lorem_ipsum
+gplus_username:
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-163827078-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
