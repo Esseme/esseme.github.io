@@ -5,7 +5,7 @@ description: Some Of The Work I have Done
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Ed Ssemuwemba
+username: Ed SSemuwemba
 user_description: These are some of the tools I have used to accomplish my tasks
 user_title: Software Developer
 email: esseme@gmail.com
@@ -14,7 +14,5 @@ github_username:  Esseme
 gplus_username:
 
 # Google-analytics
-google-analytics:
-  id: "UA-163827078-1"
-
+google-analytics: G-CHHGQWQ0HH
 exclude: ['package.json', 'src' , 'node_modules']
